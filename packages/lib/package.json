@@ -1,10 +1,10 @@
 {
-  "name": "react-tv-space-navigation",
+  "name": "@datvt/react-tv-space-navigation",
   "version": "5.2.0",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bamlab/react-tv-space-navigation.git"
+    "url": "git+https://github.com/thinhdat1999/react-tv-space-navigation.git"
   },
   "license": "MIT",
   "devDependencies": {
